@@ -1,1 +1,1 @@
-# html_project
+Devops Training Purpose
